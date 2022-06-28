@@ -6,7 +6,6 @@ import numpy as np
 from PIL import Image
 from tensorflow.keras.models import load_model
 import tensorflow as tf
-import plotly.graph_objects as go
 
 import time # to simulate a real time data, time loop 
 import plotly.express as px # interactive charts 
